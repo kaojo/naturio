@@ -1,0 +1,11 @@
+{
+  "name": "naturio",
+  "version": "0.1.0",
+  "title": "naturio",
+  "author": "kaojo",
+  "contact": "mail@kaojo.de",
+  "homepage": "https://github.com/kaojo/naturio",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16"],
+  "description": "This mod adds a shape shifting system to the game where the player can tranform into various types of unique animals."
+}
