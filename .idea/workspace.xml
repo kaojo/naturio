@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ea68da2-5110-41fc-8ad7-c6b2fee2c2a7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data.lua" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/info.json" />
+    <list default="true" id="c312e54b-02c5-4535-9123-e126dc72633a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data.lua" afterPath="$PROJECT_DIR$/data.lua" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,18 +19,154 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="info.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/info.json">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="data.lua" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="36">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo-trees.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/demo-trees.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/data.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/core/data.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ammo.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/item/ammo.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+              <folding>
+                <element signature="e#274#796#0" expanded="false" />
+                <element signature="e#335#788#0" expanded="false" />
+                <element signature="e#402#500#0" expanded="false" />
+                <element signature="e#539#778#0" expanded="false" />
+                <element signature="e#553#650#1" expanded="false" />
+                <element signature="e#664#766#1" expanded="false" />
+                <element signature="e#1142#1721#0" expanded="false" />
+                <element signature="e#1192#1715#0" expanded="false" />
+                <element signature="e#1253#1707#0" expanded="false" />
+                <element signature="e#1320#1418#0" expanded="false" />
+                <element signature="e#1457#1697#0" expanded="false" />
+                <element signature="e#1471#1568#1" expanded="false" />
+                <element signature="e#1582#1685#1" expanded="false" />
+                <element signature="e#2467#2903#1" expanded="false" />
+                <element signature="e#2666#2895#0" expanded="false" />
+                <element signature="e#2733#2885#0" expanded="false" />
+                <element signature="e#3018#3642#1" expanded="false" />
+                <element signature="e#3189#3550#0" expanded="false" />
+                <element signature="e#3239#3544#0" expanded="false" />
+                <element signature="e#3300#3536#0" expanded="false" />
+                <element signature="e#3435#3526#0" expanded="false" />
+                <element signature="e#3646#4304#1" expanded="false" />
+                <element signature="e#3837#4208#0" expanded="false" />
+                <element signature="e#3887#4202#0" expanded="false" />
+                <element signature="e#3948#4194#0" expanded="false" />
+                <element signature="e#4093#4184#0" expanded="false" />
+                <element signature="e#4308#5042#1" expanded="false" />
+                <element signature="e#4489#4945#0" expanded="false" />
+                <element signature="e#4626#4939#0" expanded="false" />
+                <element signature="e#4687#4931#0" expanded="false" />
+                <element signature="e#4830#4921#0" expanded="false" />
+                <element signature="e#5046#6122#1" expanded="false" />
+                <element signature="e#5231#6014#0" expanded="false" />
+                <element signature="e#5350#6008#0" expanded="false" />
+                <element signature="e#5360#5662#1" expanded="false" />
+                <element signature="e#5427#5652#0" expanded="false" />
+                <element signature="e#5500#5640#0" expanded="false" />
+                <element signature="e#5516#5626#1" expanded="false" />
+                <element signature="e#5672#6000#1" expanded="false" />
+                <element signature="e#5768#5990#0" expanded="false" />
+                <element signature="e#6126#7233#1" expanded="false" />
+                <element signature="e#6329#7122#0" expanded="false" />
+                <element signature="e#6448#7116#0" expanded="false" />
+                <element signature="e#6458#6760#1" expanded="false" />
+                <element signature="e#6525#6750#0" expanded="false" />
+                <element signature="e#6598#6738#0" expanded="false" />
+                <element signature="e#6614#6724#1" expanded="false" />
+                <element signature="e#6770#7108#1" expanded="false" />
+                <element signature="e#6866#7098#0" expanded="false" />
+                <element signature="e#7237#8051#1" expanded="false" />
+                <element signature="e#7430#7953#0" expanded="false" />
+                <element signature="e#7543#7947#0" expanded="false" />
+                <element signature="e#7643#7730#0" expanded="false" />
+                <element signature="e#7766#7939#0" expanded="false" />
+                <element signature="e#7833#7929#0" expanded="false" />
+                <element signature="e#8055#8866#1" expanded="false" />
+                <element signature="e#8238#8777#0" expanded="false" />
+                <element signature="e#8327#8770#0" expanded="false" />
+                <element signature="e#8388#8762#0" expanded="false" />
+                <element signature="e#8653#8751#0" expanded="false" />
+                <element signature="e#8870#9715#1" expanded="false" />
+                <element signature="e#9073#9622#0" expanded="false" />
+                <element signature="e#9162#9615#0" expanded="false" />
+                <element signature="e#9223#9607#0" expanded="false" />
+                <element signature="e#9498#9596#0" expanded="false" />
+                <element signature="e#9719#10531#1" expanded="false" />
+                <element signature="e#9918#10440#0" expanded="false" />
+                <element signature="e#10007#10433#0" expanded="false" />
+                <element signature="e#10068#10425#0" expanded="false" />
+                <element signature="e#10316#10414#0" expanded="false" />
+                <element signature="e#10535#11387#1" expanded="false" />
+                <element signature="e#10754#11286#0" expanded="false" />
+                <element signature="e#10843#11279#0" expanded="false" />
+                <element signature="e#10904#11271#0" expanded="false" />
+                <element signature="e#11162#11260#0" expanded="false" />
+                <element signature="e#11391#12181#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projectiles.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/projectiles.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8226">
+              <caret line="457" column="12" lean-forward="false" selection-start-line="457" selection-start-column="12" selection-end-line="457" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kaojo</find>
+      <find>basic-clips</find>
+      <find>artillery-projectile</find>
+      <find>artiller</find>
+      <find>fire</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +179,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/info.json" />
+        <option value="$PROJECT_DIR$/data.lua" />
       </list>
     </option>
   </component>
@@ -55,11 +189,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1855" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1215" />
     <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="width" value="1215" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -170,7 +304,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -187,22 +320,87 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="naturio_0.1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="graphics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="graphics" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="naturio_0.1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lua Library" type="70bed36:NamedLibraryElementNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JSON" />
-    <property name="SearchEverywhereHistoryKey" value="increase f&#9;ACTION&#9;EditorIncreaseFontSize&#10;size&#9;ACTION&#9;EditorIncreaseFontSize" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -311,22 +509,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9ea68da2-5110-41fc-8ad7-c6b2fee2c2a7" name="Default" comment="" />
-      <created>1520791952449</created>
+      <changelist id="c312e54b-02c5-4535-9123-e126dc72633a" name="Default" comment="" />
+      <created>1520794186881</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1520791952449</updated>
-      <workItem from="1520791956116" duration="284000" />
-      <workItem from="1520792344179" duration="1016000" />
+      <updated>1520794186881</updated>
+      <workItem from="1520794188043" duration="2084000" />
+      <workItem from="1520796946319" duration="3695000" />
+      <workItem from="1520841924438" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1300000" />
+    <option name="totallyTimeSpent" value="6050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1855" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1215" y="-4" width="1857" height="1092" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -336,21 +534,22 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17578773" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="1920" y="24" width="1920" height="1056" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17302378" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27805418" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249309" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -366,7 +565,7 @@
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
     </layout>
@@ -382,7 +581,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json">
+    <entry file="file://$PROJECT_DIR$/data.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -390,10 +589,286 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/info.json">
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/demo-trees.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/data.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/core/data.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/projectiles.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8226">
+          <caret line="457" column="12" lean-forward="false" selection-start-line="457" selection-start-column="12" selection-end-line="457" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/item/ammo.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="100" column="48" lean-forward="false" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="48" />
+          <folding>
+            <element signature="e#274#796#0" expanded="false" />
+            <element signature="e#335#788#0" expanded="false" />
+            <element signature="e#402#500#0" expanded="false" />
+            <element signature="e#539#778#0" expanded="false" />
+            <element signature="e#553#650#1" expanded="false" />
+            <element signature="e#664#766#1" expanded="false" />
+            <element signature="e#1142#1721#0" expanded="false" />
+            <element signature="e#1192#1715#0" expanded="false" />
+            <element signature="e#1253#1707#0" expanded="false" />
+            <element signature="e#1320#1418#0" expanded="false" />
+            <element signature="e#1457#1697#0" expanded="false" />
+            <element signature="e#1471#1568#1" expanded="false" />
+            <element signature="e#1582#1685#1" expanded="false" />
+            <element signature="e#2467#2903#1" expanded="false" />
+            <element signature="e#2666#2895#0" expanded="false" />
+            <element signature="e#2733#2885#0" expanded="false" />
+            <element signature="e#3018#3642#1" expanded="false" />
+            <element signature="e#3189#3550#0" expanded="false" />
+            <element signature="e#3239#3544#0" expanded="false" />
+            <element signature="e#3300#3536#0" expanded="false" />
+            <element signature="e#3435#3526#0" expanded="false" />
+            <element signature="e#3646#4304#1" expanded="false" />
+            <element signature="e#3837#4208#0" expanded="false" />
+            <element signature="e#3887#4202#0" expanded="false" />
+            <element signature="e#3948#4194#0" expanded="false" />
+            <element signature="e#4093#4184#0" expanded="false" />
+            <element signature="e#4308#5042#1" expanded="false" />
+            <element signature="e#4489#4945#0" expanded="false" />
+            <element signature="e#4626#4939#0" expanded="false" />
+            <element signature="e#4687#4931#0" expanded="false" />
+            <element signature="e#4830#4921#0" expanded="false" />
+            <element signature="e#5046#6122#1" expanded="false" />
+            <element signature="e#5231#6014#0" expanded="false" />
+            <element signature="e#5350#6008#0" expanded="false" />
+            <element signature="e#5360#5662#1" expanded="false" />
+            <element signature="e#5427#5652#0" expanded="false" />
+            <element signature="e#5500#5640#0" expanded="false" />
+            <element signature="e#5516#5626#1" expanded="false" />
+            <element signature="e#5672#6000#1" expanded="false" />
+            <element signature="e#5768#5990#0" expanded="false" />
+            <element signature="e#6126#7233#1" expanded="false" />
+            <element signature="e#6329#7122#0" expanded="false" />
+            <element signature="e#6448#7116#0" expanded="false" />
+            <element signature="e#6458#6760#1" expanded="false" />
+            <element signature="e#6525#6750#0" expanded="false" />
+            <element signature="e#6598#6738#0" expanded="false" />
+            <element signature="e#6614#6724#1" expanded="false" />
+            <element signature="e#6770#7108#1" expanded="false" />
+            <element signature="e#6866#7098#0" expanded="false" />
+            <element signature="e#7237#8051#1" expanded="false" />
+            <element signature="e#7430#7953#0" expanded="false" />
+            <element signature="e#7543#7947#0" expanded="false" />
+            <element signature="e#7643#7730#0" expanded="false" />
+            <element signature="e#7766#7939#0" expanded="false" />
+            <element signature="e#7833#7929#0" expanded="false" />
+            <element signature="e#8055#8866#1" expanded="false" />
+            <element signature="e#8238#8777#0" expanded="false" />
+            <element signature="e#8327#8770#0" expanded="false" />
+            <element signature="e#8388#8762#0" expanded="false" />
+            <element signature="e#8653#8751#0" expanded="false" />
+            <element signature="e#8870#9715#1" expanded="false" />
+            <element signature="e#9073#9622#0" expanded="false" />
+            <element signature="e#9162#9615#0" expanded="false" />
+            <element signature="e#9223#9607#0" expanded="false" />
+            <element signature="e#9498#9596#0" expanded="false" />
+            <element signature="e#9719#10531#1" expanded="false" />
+            <element signature="e#9918#10440#0" expanded="false" />
+            <element signature="e#10007#10433#0" expanded="false" />
+            <element signature="e#10068#10425#0" expanded="false" />
+            <element signature="e#10316#10414#0" expanded="false" />
+            <element signature="e#10535#11387#1" expanded="false" />
+            <element signature="e#10754#11286#0" expanded="false" />
+            <element signature="e#10843#11279#0" expanded="false" />
+            <element signature="e#10904#11271#0" expanded="false" />
+            <element signature="e#11162#11260#0" expanded="false" />
+            <element signature="e#11391#12181#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/demo-trees.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/core/backers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/core/prototypes/fonts.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/core/lualib/dataloader.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/demo-trees.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/core/data.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/data.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/graphics/icons/piercing-rounds-magazine.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/entity/projectiles.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8226">
+          <caret line="457" column="12" lean-forward="false" selection-start-line="457" selection-start-column="12" selection-end-line="457" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/Steam/steamapps/common/Factorio/data/base/prototypes/item/ammo.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+          <folding>
+            <element signature="e#274#796#0" expanded="false" />
+            <element signature="e#335#788#0" expanded="false" />
+            <element signature="e#402#500#0" expanded="false" />
+            <element signature="e#539#778#0" expanded="false" />
+            <element signature="e#553#650#1" expanded="false" />
+            <element signature="e#664#766#1" expanded="false" />
+            <element signature="e#1142#1721#0" expanded="false" />
+            <element signature="e#1192#1715#0" expanded="false" />
+            <element signature="e#1253#1707#0" expanded="false" />
+            <element signature="e#1320#1418#0" expanded="false" />
+            <element signature="e#1457#1697#0" expanded="false" />
+            <element signature="e#1471#1568#1" expanded="false" />
+            <element signature="e#1582#1685#1" expanded="false" />
+            <element signature="e#2467#2903#1" expanded="false" />
+            <element signature="e#2666#2895#0" expanded="false" />
+            <element signature="e#2733#2885#0" expanded="false" />
+            <element signature="e#3018#3642#1" expanded="false" />
+            <element signature="e#3189#3550#0" expanded="false" />
+            <element signature="e#3239#3544#0" expanded="false" />
+            <element signature="e#3300#3536#0" expanded="false" />
+            <element signature="e#3435#3526#0" expanded="false" />
+            <element signature="e#3646#4304#1" expanded="false" />
+            <element signature="e#3837#4208#0" expanded="false" />
+            <element signature="e#3887#4202#0" expanded="false" />
+            <element signature="e#3948#4194#0" expanded="false" />
+            <element signature="e#4093#4184#0" expanded="false" />
+            <element signature="e#4308#5042#1" expanded="false" />
+            <element signature="e#4489#4945#0" expanded="false" />
+            <element signature="e#4626#4939#0" expanded="false" />
+            <element signature="e#4687#4931#0" expanded="false" />
+            <element signature="e#4830#4921#0" expanded="false" />
+            <element signature="e#5046#6122#1" expanded="false" />
+            <element signature="e#5231#6014#0" expanded="false" />
+            <element signature="e#5350#6008#0" expanded="false" />
+            <element signature="e#5360#5662#1" expanded="false" />
+            <element signature="e#5427#5652#0" expanded="false" />
+            <element signature="e#5500#5640#0" expanded="false" />
+            <element signature="e#5516#5626#1" expanded="false" />
+            <element signature="e#5672#6000#1" expanded="false" />
+            <element signature="e#5768#5990#0" expanded="false" />
+            <element signature="e#6126#7233#1" expanded="false" />
+            <element signature="e#6329#7122#0" expanded="false" />
+            <element signature="e#6448#7116#0" expanded="false" />
+            <element signature="e#6458#6760#1" expanded="false" />
+            <element signature="e#6525#6750#0" expanded="false" />
+            <element signature="e#6598#6738#0" expanded="false" />
+            <element signature="e#6614#6724#1" expanded="false" />
+            <element signature="e#6770#7108#1" expanded="false" />
+            <element signature="e#6866#7098#0" expanded="false" />
+            <element signature="e#7237#8051#1" expanded="false" />
+            <element signature="e#7430#7953#0" expanded="false" />
+            <element signature="e#7543#7947#0" expanded="false" />
+            <element signature="e#7643#7730#0" expanded="false" />
+            <element signature="e#7766#7939#0" expanded="false" />
+            <element signature="e#7833#7929#0" expanded="false" />
+            <element signature="e#8055#8866#1" expanded="false" />
+            <element signature="e#8238#8777#0" expanded="false" />
+            <element signature="e#8327#8770#0" expanded="false" />
+            <element signature="e#8388#8762#0" expanded="false" />
+            <element signature="e#8653#8751#0" expanded="false" />
+            <element signature="e#8870#9715#1" expanded="false" />
+            <element signature="e#9073#9622#0" expanded="false" />
+            <element signature="e#9162#9615#0" expanded="false" />
+            <element signature="e#9223#9607#0" expanded="false" />
+            <element signature="e#9498#9596#0" expanded="false" />
+            <element signature="e#9719#10531#1" expanded="false" />
+            <element signature="e#9918#10440#0" expanded="false" />
+            <element signature="e#10007#10433#0" expanded="false" />
+            <element signature="e#10068#10425#0" expanded="false" />
+            <element signature="e#10316#10414#0" expanded="false" />
+            <element signature="e#10535#11387#1" expanded="false" />
+            <element signature="e#10754#11286#0" expanded="false" />
+            <element signature="e#10843#11279#0" expanded="false" />
+            <element signature="e#10904#11271#0" expanded="false" />
+            <element signature="e#11162#11260#0" expanded="false" />
+            <element signature="e#11391#12181#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -450,6 +925,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>naturio_0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -473,6 +949,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Lua Library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
