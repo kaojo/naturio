@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Lua Library1" type="Lua">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Nanobots_2.0.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

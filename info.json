@@ -6,6 +6,6 @@
   "contact": "mail@kaojo.de",
   "homepage": "https://github.com/kaojo/naturio",
   "factorio_version": "0.16",
-  "dependencies": ["base >= 0.16"],
-  "description": "This mod adds a shape shifting system to the game where the player can tranform into various types of unique animals."
+  "dependencies": ["base >= 0.15"],
+  "description": "This mod adds a shape shifting system to the game where the player can transform into various unique animals."
 }
